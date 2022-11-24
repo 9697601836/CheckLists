@@ -1,3 +1,3 @@
-# CheckLists
+# CheckList
 
-Используя метод "Black Box" провести тестирование WEB-ресурса(выбрать произвольно).
+Создать smoke checklist (Ad-hoc testing, неавторизованный пользователь)
