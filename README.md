@@ -1,3 +1,3 @@
 # CheckList
 
-Создать smoke checklist (Ad-hoc testing, неавторизованный пользователь)
+Проводим UAT тестирование web ресурса. Нужно создать smoke checklist (Ad-hoc testing, неавторизованный пользователь)
